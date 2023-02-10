@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+
+.carousel {
+    max-height: 500px;
+    max-width: 100%;
+    overflow: hidden;
+ }
+ 
+ .carousel-inner > .item > img {
+     margin: 0 auto;
+ }
+
+ .carousel-caption{
+    padding: 20%;
+ }
